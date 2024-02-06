@@ -1,6 +1,5 @@
 # python_web
 
-Manual de uso app.py del proyecto entry_level
 En la carpeta proyecto_flask está un archivo llamado app.py, el cual es un programa que toma dos argumentos: una lista y un entero, cuya idea principal es encontrar, de la lista suministrada, qué par de números al sumarse dan como resultado el objetivo (segundo argumento). A continuación se detalla como utilizarlo y un ejemplo.
 
 Instrucciones de uso:
